@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+main {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+}
+
+.poll-list {
+  width: 100%;
+  margin-top: 50px;
+  list-style: none;
+}

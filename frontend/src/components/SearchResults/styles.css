@@ -1,0 +1,14 @@
+.search-result-box {
+  width: 400px;
+  min-height: 100px;
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 200px);
+  z-index: 1;
+  border-radius: 10px;
+  background: #ffffffdd;
+}
+
+.search-result-box ul {
+  list-style: none;
+}
