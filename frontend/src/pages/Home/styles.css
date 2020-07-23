@@ -14,4 +14,5 @@ main {
   width: 100%;
   margin-top: 50px;
   list-style: none;
+  overflow: auto;
 }
